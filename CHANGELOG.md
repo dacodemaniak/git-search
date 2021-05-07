@@ -1,0 +1,28 @@
+### Version 1.0.0
+- Initial commit
+- Initial commit
+- Add index.html
+- Add index.html
+- Home Feature finalized
+- Home Feature finalized
+- Fix index updates
+- Fix index updates
+- Update index stack
+- Update index stack
+- Beautify HTML Update CSS with brand new font
+- Beautify HTML Update CSS with brand new font
+- Add legals
+- Add legals
+- Fix index title
+- Fix index title
+- Add links and back links to Legals
+- Add links and back links to Legals
+- Fix title merge on index
+- Fix title merge on index
+- add api call
+- add api call
+- Update fetch api method
+- Update fetch api method
+- add notes.txt to gitignore
+- Add notes
+- Fix gitignore
