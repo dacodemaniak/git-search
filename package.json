@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dacodemaniak/git-search/issues"
   },
-  "homepage": "https://github.com/dacodemaniak/git-search#readme"
+  "homepage": "https://github.com/dacodemaniak/git-search#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
 }
